@@ -1,16 +1,17 @@
-## Hi there 👋
+## HI FRIENDS
 
-<!--
-**pamelaMM681/PamelaMM681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*meu nome é Pâmela*
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScrit
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- vc pode entra em contato cmg 📫
+
+  email: pamela.mainardes.machado@escola.pr.gov.br
+
+ @pamela_mainardes
+
+
+
+
